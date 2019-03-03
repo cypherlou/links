@@ -13,7 +13,7 @@
 * [https://pypi.org/project/requests-http-signature/](requests-http-signature) - Also [this](https://tools.ietf.org/html/draft-cavage-http-signatures-10).
 * [sitemap parser++](https://github.com/berkmancenter/mediacloud-ultimate_sitemap_parser).
 * [Word Cloud](https://github.com/amueller/word_cloud).
-* []().
+* [ScrapyScript](https://github.com/jschnurr/scrapyscript) for low friction parallel scraping.
 * []().
 * []().
 
