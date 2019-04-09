@@ -14,8 +14,8 @@
 * [sitemap parser++](https://github.com/berkmancenter/mediacloud-ultimate_sitemap_parser).
 * [Word Cloud](https://github.com/amueller/word_cloud).
 * [ScrapyScript](https://github.com/jschnurr/scrapyscript) for low friction parallel scraping.
-* []().
-* []().
+* [pythonwhois](https://github.com/joepie91/python-whois) `pip install pythonwhois`.
+* [ipwhois](https://github.com/secynic/ipwhois) to do ip reverse lookup. Usage examples [here](https://ipwhois.readthedocs.io/en/latest/RDAP.html#basic-usage).
 
 # Tags and Mark-up 
 * [Abbreviation tag](https://www.w3schools.com/tags/tag_abbr.asp).
