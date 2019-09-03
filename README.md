@@ -49,3 +49,7 @@
 * [BT Area Codes](https://www.thephonebook.bt.com/DiallingCodes/UkAreaCodeSearch/?AreaIdentifier=017) or ]this](https://www.thephonebook.bt.com/DiallingCodes/DiallingCodeSearch/?SearchType=1&AreaIdentifier=brighton&InternationalCodeId=0&InternationalCodeId=0).
 * [Amazon product API (Bottlenose)](https://github.com/lionheart/bottlenose).
 * [DBPedia info on places](http://dbpedia.org/data3/Settlement.json)
+
+## Language processing
+* [Language tool](https://languagetool.org/http-api/swagger-ui/#!/default/get_languages) - very good
+* [After the Deadline](https://open.afterthedeadline.com/) - processing responses not so obvious as Language Tool but the quality/extensibility might be better.
