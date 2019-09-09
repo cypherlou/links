@@ -3,7 +3,7 @@
 * []().
 
 # Things of interest
-* [https://www.fsma.be/en/archive-warnings-foreign-authorities-who-are-members-esma-pol](ARCHIVE - WARNINGS BY FOREIGN AUTHORITIES WHO ARE MEMBERS OF ESMA-POL) and [this](https://www.cysec.gov.cy/en-GB/complaints/non-approved-domains/).
+* [ARCHIVE - WARNINGS BY FOREIGN AUTHORITIES WHO ARE MEMBERS OF ESMA-POL](https://www.fsma.be/en/archive-warnings-foreign-authorities-who-are-members-esma-pol) and [this](https://www.cysec.gov.cy/en-GB/complaints/non-approved-domains/).
 * [How to build your own AlphaZero](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188).
 
 # Python Libraries
