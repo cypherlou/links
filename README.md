@@ -16,6 +16,7 @@
 * [ScrapyScript](https://github.com/jschnurr/scrapyscript) for low friction parallel scraping.
 * [pythonwhois](https://github.com/joepie91/python-whois) `pip install pythonwhois`.
 * [ipwhois](https://github.com/secynic/ipwhois) to do ip reverse lookup. Usage examples [here](https://ipwhois.readthedocs.io/en/latest/RDAP.html#basic-usage).
+* [HTML, CSS & JS minify library](https://github.com/juancarlospaco/css-html-js-minify#css-html-js-minify).
 
 # Tags and Mark-up 
 * [Abbreviation tag](https://www.w3schools.com/tags/tag_abbr.asp).
@@ -27,11 +28,6 @@
 # SEO
 * [Structured data](https://developers.google.com/search/docs/guides/sd-policies).
 * [Safe browsing](https://transparencyreport.google.com/safe-browsing/search).
-* []().
-* []().
-* []().
-* []().
-* []().
 
 # Technical
 * [AMP Cache queries](https://developers.google.com/amp/cache/update-cache).
