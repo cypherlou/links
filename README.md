@@ -53,3 +53,10 @@
 ## Language processing
 * [Language tool](https://languagetool.org/http-api/swagger-ui/#!/default/get_languages) - very good
 * [After the Deadline](https://open.afterthedeadline.com/) - processing responses not so obvious as Language Tool but the quality/extensibility might be better.
+
+## MQ
+* [MQTT](http://mqtt.org/) and the [Python library](https://pypi.org/project/paho-mqtt/) and a [Python client and server](https://github.com/beerfactory/hbmqtt/tree/master/docs).
+
+## Mapping
+* [Here.com](https://developer.here.com/documentation/maps/topics/overview.html#overview__modules).
+
