@@ -7,6 +7,7 @@
 * [How to build your own AlphaZero](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188).
 
 # Python Libraries
+## Internet related
 * [Cached Property](https://pypi.org/project/cached-property/).
 * [nmap](https://xael.org/pages/python-nmap-en.html).
 * [robots.txt parser](https://docs.python.org/2/library/robotparser.html).
@@ -17,12 +18,13 @@
 * [pythonwhois](https://github.com/joepie91/python-whois) `pip install pythonwhois`.
 * [ipwhois](https://github.com/secynic/ipwhois) to do ip reverse lookup. Usage examples [here](https://ipwhois.readthedocs.io/en/latest/RDAP.html#basic-usage).
 * [HTML, CSS & JS minify library](https://github.com/juancarlospaco/css-html-js-minify#css-html-js-minify).
+## MQ
+* [MQTT](http://mqtt.org/) and the [Python library](https://pypi.org/project/paho-mqtt/) and a [Python client and server](https://github.com/beerfactory/hbmqtt/tree/master/docs).
+
 
 # Tags and Mark-up 
 * [Abbreviation tag](https://www.w3schools.com/tags/tag_abbr.asp).
 * [Definition tag](https://www.w3schools.com/tags/tag_dfn.asp).
-* []().
-* []().
 
 
 # SEO
@@ -50,8 +52,19 @@
 * [Language tool](https://languagetool.org/http-api/swagger-ui/#!/default/get_languages) - very good
 * [After the Deadline](https://open.afterthedeadline.com/) - processing responses not so obvious as Language Tool but the quality/extensibility might be better.
 
-## MQ
-* [MQTT](http://mqtt.org/) and the [Python library](https://pypi.org/project/paho-mqtt/) and a [Python client and server](https://github.com/beerfactory/hbmqtt/tree/master/docs).
+## Food
+* [spoonacular](https://spoonacular.com/food-api).
+* [edamam](https://developer.edamam.com/edamam-nutrition-api).
+* [chomp](https://chompthis.com/api/).
+* [can I eat it?](http://canieatit.co.uk/product-and-barcode-api/).
+* [US Dept Agriculture](https://www.nal.usda.gov/).
+* [food 2 fork](https://www.food2fork.com/about/api).
+* [big oven](http://api2.bigoven.com/).
+* [barzz](https://www.barzz.net/api.php).
+* [fat secret](https://platform.fatsecret.com/).
+* [Esha](https://www.esha.com/products/nutrition-database-api/).
+* [Zomato](https://developers.zomato.com/).
+
 
 ## Mapping
 * [Here.com](https://developer.here.com/documentation/maps/topics/overview.html#overview__modules).
