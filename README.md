@@ -1,6 +1,6 @@
 # General Links
-* []().
-* []().
+* [Beaker](https://beakerbrowser.com/docs/guides/) browser.
+* [Neo4J example](https://www.preining.info/blog/2018/05/analysing-debian-packages-with-neo4j-part-3-getting-data-from-udd-into-neo4j/).
 
 # Things of interest
 * [ARCHIVE - WARNINGS BY FOREIGN AUTHORITIES WHO ARE MEMBERS OF ESMA-POL](https://www.fsma.be/en/archive-warnings-foreign-authorities-who-are-members-esma-pol) and [this](https://www.cysec.gov.cy/en-GB/complaints/non-approved-domains/).
