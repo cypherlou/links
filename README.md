@@ -69,3 +69,5 @@
 ## Mapping
 * [Here.com](https://developer.here.com/documentation/maps/topics/overview.html#overview__modules).
 
+# Machine Learning
+* [Tensorflow tutorial](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture).
