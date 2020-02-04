@@ -71,3 +71,8 @@
 
 # Machine Learning
 * [Tensorflow tutorial](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture).
+
+# Frameworkls and develiopment environments
+## Mobile/cross platform
+* [Ionic](https://ionicframework.com/studio)
+* [Cordova](https://cordova.apache.org/)
