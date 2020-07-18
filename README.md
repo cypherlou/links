@@ -19,6 +19,7 @@
 * [ipwhois](https://github.com/secynic/ipwhois) to do ip reverse lookup. Usage examples [here](https://ipwhois.readthedocs.io/en/latest/RDAP.html#basic-usage).
 * [HTML, CSS & JS minify library](https://github.com/juancarlospaco/css-html-js-minify#css-html-js-minify).
 * [apt package Python](https://www.nylas.com/blog/packaging-deploying-python/)
+* [polly](https://github.com/Brainlabs-Digital/polly) - href-lang tag checker
 ## MQ
 * [MQTT](http://mqtt.org/) and the [Python library](https://pypi.org/project/paho-mqtt/) and a [Python client and server](https://github.com/beerfactory/hbmqtt/tree/master/docs).
 
