@@ -8,6 +8,7 @@
 
 # HAProxy
 * [performance optimisation and SSL](https://nordisch.org/posts/haproxy-speeding-up-ssl/).
+* [ate limiting](https://medium.com/faun/understanding-rate-limiting-on-haproxy-b0cf500310b1).
 
 # Python Libraries
 ## Internet related
