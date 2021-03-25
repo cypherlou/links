@@ -8,7 +8,7 @@
 
 # HAProxy
 * [performance optimisation and SSL](https://nordisch.org/posts/haproxy-speeding-up-ssl/).
-* [ate limiting](https://medium.com/faun/understanding-rate-limiting-on-haproxy-b0cf500310b1).
+* [rate limiting](https://medium.com/faun/understanding-rate-limiting-on-haproxy-b0cf500310b1).
 
 # Python Libraries
 ## Internet related
@@ -82,3 +82,6 @@
 ## Mobile/cross platform
 * [Ionic](https://ionicframework.com/studio)
 * [Cordova](https://cordova.apache.org/)
+
+# Fun JS libraries
+* [rough js](https://roughjs.com/)
